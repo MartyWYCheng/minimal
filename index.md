@@ -1,124 +1,54 @@
----
-layout: default
----
+# Resume
 
-Theme can be **dark** or **light** the color is dependent on your system theme so go ahead turn it dark.
-Text can be **bold**, _italic_, or ~~strikethrough~~ or <kbd>keyboard shortcuts</kbd>.
+Ambitious and resourceful researcher with proven experience in rapid prototyping, robotics, prosthetics, academic/grant writing, and public speaking. Great passion for finding creative solutions to tough challenges. Thrives in all aspects of an interdisciplinary engineering project and excels in communicating complex ideas. Highly interested in AI and data analytics applications in Human-Robot Interaction (HRI) and Human-Computer Interaction (HCI).
 
-[Link to another page](./another-page.html).
+# Experience
 
-There should be whitespace between paragraphs.
+## Research Assistant
+08/2018 – Present  
+**Florida Atlantic University, BioRobotics Lab, Dr. Erik Engeberg**  
+Boca Raton, FL
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- Designed and built a novel high-density Force Myogram (FMG) sensor array capable of 100% classification accuracy across 20 hand gestures using AI.
+- Developed a Soft Robotic Haptic Feedback Socket and was awarded $1,700 in total to advance the project from two separate grants in 2018 and 2019.
+- Spearheaded a team that pioneered a Variable-Pressure Prosthetic Socket using Granular Jamming technology and was awarded $1,200 to advance the project in 2021.
+- Created a 3D scanning system that increased scanning accuracy and success rate by 40%.
 
-# Header 1
+## Research Assistant
+08/2018 – Present  
+**Florida Atlantic University, Dr. Zhen Ni**  
+Boca Raton, FL
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- Developed a low-cost and reliable Wireless Charging Station for the TurtleBot 3 mobile robot platform.
+- Integrated and optimized a PPO robotic arm training algorithm for the Kinova Gen 3 Robot Arm.
 
-## Header 2
+## Research Intern
+06/2020 – 02/2024  
+**Johns Hopkins University, Dr. Nitish Thakor**  
+Baltimore, MD
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- Designed a novel biomimetic Soft-Rigid Hybrid Prosthetic Finger capable of outputting more than 3 times the grasping force and nearly 2 times the angle of flexion with just 1/4th of the input pressure when compared to traditional soft robotic prosthetic fingers.
 
-### Header 3
+## I-SENSE REU Summer Intern
+06/2018 – 08/2018  
+**Florida Atlantic University, I-SENSE, Dr. Erik Engeberg**  
+Boca Raton, FL
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- Operated independently to create a novel prosthetic socket strong enough to handle up to 99lbs while maintaining natural arm flexibility at 70% of the cost of similar 3D printed prosthetics in only two months.
+- Awarded with “Best Presentation” of I-SENSE Summer Internship.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# Skills
 
-#### Header 4
+- Coding Languages – C, C++, Python, HTML, Arduino, ROS, Gazebo, MATLAB & Simulink
+- AI Experience – Scikit-learn, TensorFlow, and PyTorch
+- Rapid Prototyping – Solidworks, Meshmixer, Fusion 360, FDM and SLA 3D printer proficiency
+- Finite Element Analysis (FEA) – ANSYS Workbench
+- Hardware Prototyping – Soldering and electronic circuit design
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+# Education
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+**Florida Atlantic University**
+- BS in Mechanical Engineering with a Minor in Computer Science
+  - Part of the Innovation Leadership Honors Program (ILHP)
+- MS in Artificial Intelligence
+- Pursuing a PhD in Computer Science
