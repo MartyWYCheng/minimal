@@ -1,7 +1,7 @@
-title: Minimal theme
+title: Marty (Wen-Yu) Cheng
 logo: /assets/img/logo.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: Learn about me!
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 #color-scheme: auto-default-dark
