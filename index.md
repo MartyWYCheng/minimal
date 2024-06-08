@@ -27,7 +27,7 @@ Baltimore, MD
 **Florida Atlantic University, BioRobotics Lab, Dr. Erik Engeberg**  
 Boca Raton, FL
 
-- Designed and built a novel high-density Force Myogram (FMG) sensor array capable of <ins>**100% classification accuracy**</ins> across 20 hand gestures using AI.
+- Designed and built a novel high-density Force Myogram **<ins>(FMG)</ins>** sensor array capable of <ins>**100% classification accuracy**</ins> across 20 hand gestures using AI.
 - Developed a Soft Robotic Haptic Feedback Socket and was awarded <ins>**$2,400**</ins> in total to advance the project from two separate grants in 2018 and 2019.
 - Spearheaded a team that pioneered a Variable-Pressure Prosthetic Socket using Granular Jamming technology and was awarded <ins>**$1,200**</ins> to advance the project in 2021.
 - Created a <ins>**3D scanning system**</ins> that increased scanning accuracy and success rate by 40%.
