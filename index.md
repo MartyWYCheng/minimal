@@ -1,6 +1,6 @@
 # About me
 
-Hello! My name is Wen-Yu Cheng, but everyone calls me Marty! I've been passionate about creating things from a young age and have proven to be a resourceful researcher with large amounts of experience in <ins>rapid prototyping</ins>, <ins>robotics</ins>, and <ins>prosthetics.</ins> My passions also extend to communicating complex ideas in <ins>academic/grant writing</ins>, <ins>public speaking</ins>, and making <ins>web content</ins>. I've also had experience leading numerous project groups that have been rewarded with awards and extra funding. Helping people understand and solving tough problems makes me happier than anything else! I am currently in the final stages of my PhD program in Computer Science, and I'm highly interested in <ins>AI</ins> and <ins>data analytics</ins> applications in Human-Robot Interaction <ins>(HRI)</ins> and Human-Computer Interaction <ins>(HCI)</ins>.
+Hello! My name is Wen-Yu Cheng, but everyone calls me Marty! I've been passionate about creating things from a young age and have proven to be a resourceful researcher with large amounts of experience in <ins>**rapid prototyping**</ins>, <ins>**robotics**</ins>, and <ins>**prosthetics**</ins>. My passions also extend to communicating complex ideas in <ins>**academic/grant writing**</ins>, <ins>**public speaking**</ins>, and making <ins>**web content**</ins>. I've also had experience leading numerous project groups that have been rewarded with awards and extra funding. Helping people understand and solving tough problems makes me happier than anything else! I am currently in the final stages of my PhD program in Computer Science, and I'm highly interested in <ins>**AI**</ins> and <ins>**data analytics**</ins> applications in Human-Robot Interaction **<ins>(HRI)</ins>** and Human-Computer Interaction **<ins>(HCI)</ins>**.
 
 # Experience
 
@@ -48,7 +48,7 @@ Boca Raton, FL
 **Florida Atlantic University, I-SENSE, Dr. Erik Engeberg**  
 Boca Raton, FL
 
-- Operated independently to create a novel prosthetic socket strong enough to handle up to 99lbs while maintaining natural arm flexibility at 70% of the cost of similar 3D printed prosthetics in only two months.
+- Operated independently to create a novel prosthetic socket strong enough to handle up to 99lbs while maintaining natural arm flexibility at 70% of the cost of similar 3D printed prosthetics in only <ins>**two months**</ins>.
 - Awarded with “Best Presentation” of I-SENSE Summer Internship.
 
 
