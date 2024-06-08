@@ -12,12 +12,14 @@ Boca Raton, FL
 - Pioneered new life-saving automatic tourniquet technology was instrumental in bringing the prototype design into production.
 
 
+
 ## Research Intern
 06/2020 – 02/2024  
 **Johns Hopkins University, Dr. Nitish Thakor**  
 Baltimore, MD
 
 - Designed a novel biomimetic Soft-Rigid Hybrid Prosthetic Finger capable of outputting more than 3 times the grasping force and nearly 2 times the angle of flexion with just 1/4th of the input pressure when compared to traditional soft robotic prosthetic fingers.
+
 
 
 ## Research Assistant
@@ -30,6 +32,7 @@ Boca Raton, FL
 - Spearheaded a team that pioneered a Variable-Pressure Prosthetic Socket using Granular Jamming technology and was awarded $1,200 to advance the project in 2021.
 - Created a 3D scanning system that increased scanning accuracy and success rate by 40%.
 
+
 ## Research Assistant
 08/2018 – Present  
 **Florida Atlantic University, Dr. Zhen Ni**  
@@ -39,6 +42,7 @@ Boca Raton, FL
 - Integrated and optimized a PPO robotic arm training algorithm for the Kinova Gen 3 Robot Arm.
 
 
+
 ## I-SENSE REU Summer Intern
 06/2018 – 08/2018  
 **Florida Atlantic University, I-SENSE, Dr. Erik Engeberg**  
@@ -46,6 +50,7 @@ Boca Raton, FL
 
 - Operated independently to create a novel prosthetic socket strong enough to handle up to 99lbs while maintaining natural arm flexibility at 70% of the cost of similar 3D printed prosthetics in only two months.
 - Awarded with “Best Presentation” of I-SENSE Summer Internship.
+
 
 # Skills
 
