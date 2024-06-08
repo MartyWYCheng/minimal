@@ -1,8 +1,15 @@
-# Resume
+# About me
 
-Ambitious and resourceful researcher with proven experience in rapid prototyping, robotics, prosthetics, academic/grant writing, and public speaking. Great passion for finding creative solutions to tough challenges. Thrives in all aspects of an interdisciplinary engineering project and excels in communicating complex ideas. Highly interested in AI and data analytics applications in Human-Robot Interaction (HRI) and Human-Computer Interaction (HCI).
+Hello! My name is Wen-Yu Cheng, but everyone calls me Marty! I've been passionate about creating things from a young age and have proven to be a resourceful researcher with large amounts of experience in rapid prototyping, robotics, and prosthetics. My passions also extend to communicating complex ideas in academic/grant writing, public speaking, and making web content. I've also led numerous project groups that have been rewarded with awards and extra funding. Helping people understand and solving tough problems makes me happier than anything else! I am currently in the final stages of my PhD program in Computer Science, and I'm highly interested in AI and data analytics applications in Human-Robot Interaction (HRI) and Human-Computer Interaction (HCI).
 
 # Experience
+
+## Systems Engineer 
+11/2023 – 03/2024
+**Golden Hour Medical**
+Boca Raton, FL
+
+- Pioneered new life-saving automatic tourniquet technology was instrumental in bringing the prototype design into production.
 
 ## Research Assistant
 08/2018 – Present  
@@ -39,13 +46,16 @@ Boca Raton, FL
 
 # Skills
 
-- Coding Languages – C, C++, Python, HTML, Arduino, ROS, Gazebo, MATLAB & Simulink
+- Coding Languages – C, C++, Python, R, HTML, Arduino, ROS, Gazebo, MATLAB & Simulink
 - AI Experience – Scikit-learn, TensorFlow, and PyTorch
-- Rapid Prototyping – Solidworks, Meshmixer, Fusion 360, FDM and SLA 3D printer proficiency
+- CAD Software – Solidworks, Meshmixer, Fusion 360
+- 3D Printing Proficiency – FDM and SLA printers, all slicer software
 - Finite Element Analysis (FEA) – ANSYS Workbench
 - Hardware Prototyping – Soldering and electronic circuit design
 
 # Education
+
+Through the dual-enrollment program at FAU High, I entered college at age 15 and was able to accelerate my academic career. I started as a Mechanical Engineering major due to my interests in design and fabrication throughout all my life. While this interest never faded, I slowly realized that there was a growing need for more intelligent control of these complex systems that we create. So upon receiving my Bachelor's degree, I decided to change course and pursue a Master's degree in AI to attempt to unlock the full potential of mechanical systems with highly intelligent controls. I have now fallen in love with computer science and am always looking for new ways to use what I've learned to fulfill my desire to make life-changing creations for all. 
 
 **Florida Atlantic University**
 - BS in Mechanical Engineering with a Minor in Computer Science
