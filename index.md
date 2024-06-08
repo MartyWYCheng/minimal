@@ -9,7 +9,7 @@ Hello! My name is Wen-Yu Cheng, but everyone calls me Marty! I've been passionat
 **Golden Hour Medical**  
 Boca Raton, FL
 
-- Pioneered new life-saving automatic tourniquet technology was instrumental in bringing the prototype design into production.
+- Pioneered new life-saving **automatic tourniquet** technology was instrumental in bringing the prototype design into production.
 
 
 
@@ -18,7 +18,7 @@ Boca Raton, FL
 **Johns Hopkins University, Dr. Nitish Thakor**  
 Baltimore, MD
 
-- Designed a novel biomimetic Soft-Rigid Hybrid Prosthetic Finger capable of outputting more than 3 times the grasping force and nearly 2 times the angle of flexion with just 1/4th of the input pressure when compared to traditional soft robotic prosthetic fingers.
+- Designed a novel biomimetic **Soft-Rigid Hybrid Prosthetic Finger** capable of outputting more than 3 times the grasping force and nearly 2 times the angle of flexion with just 1/4th of the input pressure when compared to traditional soft robotic prosthetic fingers.
 
 
 
@@ -27,10 +27,10 @@ Baltimore, MD
 **Florida Atlantic University, BioRobotics Lab, Dr. Erik Engeberg**  
 Boca Raton, FL
 
-- Designed and built a novel high-density Force Myogram (FMG) sensor array capable of 100% classification accuracy across 20 hand gestures using AI.
-- Developed a Soft Robotic Haptic Feedback Socket and was awarded $2,400 in total to advance the project from two separate grants in 2018 and 2019.
-- Spearheaded a team that pioneered a Variable-Pressure Prosthetic Socket using Granular Jamming technology and was awarded $1,200 to advance the project in 2021.
-- Created a 3D scanning system that increased scanning accuracy and success rate by 40%.
+- Designed and built a novel high-density Force Myogram (FMG) sensor array capable of **100% classification accuracy** across 20 hand gestures using AI.
+- Developed a Soft Robotic Haptic Feedback Socket and was awarded **$2,400** in total to advance the project from two separate grants in 2018 and 2019.
+- Spearheaded a team that pioneered a Variable-Pressure Prosthetic Socket using Granular Jamming technology and was awarded **$1,200** to advance the project in 2021.
+- Created a **3D scanning system** that increased scanning accuracy and success rate by 40%.
 
 
 ## Research Assistant
@@ -39,7 +39,7 @@ Boca Raton, FL
 Boca Raton, FL
 
 - Developed a low-cost and reliable Wireless Charging Station for the TurtleBot 3 mobile robot platform.
-- Integrated and optimized a PPO robotic arm training algorithm for the Kinova Gen 3 Robot Arm.
+- Integrated and optimized a **PPO** robotic arm training algorithm for the Kinova Gen 3 Robot Arm.
 
 
 
@@ -54,12 +54,12 @@ Boca Raton, FL
 
 # Skills
 
-- Coding Languages – C, C++, Python, R, HTML, Arduino, ROS, Gazebo, MATLAB & Simulink
-- AI Experience – Scikit-learn, TensorFlow, and PyTorch
-- CAD Software – Solidworks, Meshmixer, Fusion 360
-- 3D Printing Proficiency – FDM and SLA printers, all slicer software
-- Finite Element Analysis (FEA) – ANSYS Workbench
-- Hardware Prototyping – Soldering and electronic circuit design
+- **Coding Languages** – C, C++, Python, R, HTML, Arduino, ROS, Gazebo, MATLAB & Simulink
+- **AI Experience** – Scikit-learn, TensorFlow, and PyTorch
+- **CAD Software** – Solidworks, Meshmixer, Fusion 360
+- **3D Printing Proficiency** – FDM and SLA printers, all slicer software
+- **Finite Element Analysis (FEA)** – ANSYS Workbench
+- **Hardware Prototyping** – Soldering and electronic circuit design
 
 # Education
 
