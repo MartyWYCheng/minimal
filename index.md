@@ -5,11 +5,22 @@ Hello! My name is Wen-Yu Cheng, but everyone calls me Marty! I've been passionat
 # Experience
 
 ## Systems Engineer 
+
 11/2023 – 03/2024
+
 **Golden Hour Medical**
 Boca Raton, FL
 
 - Pioneered new life-saving automatic tourniquet technology was instrumental in bringing the prototype design into production.
+
+
+## Research Intern
+06/2020 – 02/2024  
+**Johns Hopkins University, Dr. Nitish Thakor**  
+Baltimore, MD
+
+- Designed a novel biomimetic Soft-Rigid Hybrid Prosthetic Finger capable of outputting more than 3 times the grasping force and nearly 2 times the angle of flexion with just 1/4th of the input pressure when compared to traditional soft robotic prosthetic fingers.
+
 
 ## Research Assistant
 08/2018 – Present  
@@ -29,12 +40,6 @@ Boca Raton, FL
 - Developed a low-cost and reliable Wireless Charging Station for the TurtleBot 3 mobile robot platform.
 - Integrated and optimized a PPO robotic arm training algorithm for the Kinova Gen 3 Robot Arm.
 
-## Research Intern
-06/2020 – 02/2024  
-**Johns Hopkins University, Dr. Nitish Thakor**  
-Baltimore, MD
-
-- Designed a novel biomimetic Soft-Rigid Hybrid Prosthetic Finger capable of outputting more than 3 times the grasping force and nearly 2 times the angle of flexion with just 1/4th of the input pressure when compared to traditional soft robotic prosthetic fingers.
 
 ## I-SENSE REU Summer Intern
 06/2018 – 08/2018  
