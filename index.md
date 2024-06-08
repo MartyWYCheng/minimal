@@ -1,6 +1,6 @@
 # About me
 
-Hello! My name is Wen-Yu Cheng, but everyone calls me Marty! I've been passionate about creating things from a young age and have proven to be a resourceful researcher with large amounts of experience in rapid prototyping, robotics, and prosthetics. My passions also extend to communicating complex ideas in academic/grant writing, public speaking, and making web content. I've also led numerous project groups that have been rewarded with awards and extra funding. Helping people understand and solving tough problems makes me happier than anything else! I am currently in the final stages of my PhD program in Computer Science, and I'm highly interested in AI and data analytics applications in Human-Robot Interaction (HRI) and Human-Computer Interaction (HCI).
+Hello! My name is Wen-Yu Cheng, but everyone calls me Marty! I've been passionate about creating things from a young age and have proven to be a resourceful researcher with large amounts of experience in <ins>rapid prototyping</ins>, <ins>robotics</ins>, and <ins>prosthetics.</ins> My passions also extend to communicating complex ideas in <ins>academic/grant writing</ins>, <ins>public speaking</ins>, and making <ins>web content</ins>. I've also had experience leading numerous project groups that have been rewarded with awards and extra funding. Helping people understand and solving tough problems makes me happier than anything else! I am currently in the final stages of my PhD program in Computer Science, and I'm highly interested in <ins>AI</ins> and <ins>data analytics</ins> applications in Human-Robot Interaction <ins>(HRI)</ins> and Human-Computer Interaction <ins>(HCI)</ins>.
 
 # Experience
 
@@ -18,7 +18,7 @@ Boca Raton, FL
 **Johns Hopkins University, Dr. Nitish Thakor**  
 Baltimore, MD
 
-- Designed a novel biomimetic **Soft-Rigid Hybrid Prosthetic Finger** capable of outputting more than 3 times the grasping force and nearly 2 times the angle of flexion with just 1/4th of the input pressure when compared to traditional soft robotic prosthetic fingers.
+- Designed a novel biomimetic <ins>**Soft-Rigid Hybrid Prosthetic Finger**</ins> capable of outputting more than 3 times the grasping force and nearly 2 times the angle of flexion with just 1/4th of the input pressure when compared to traditional soft robotic prosthetic fingers.
 
 
 
@@ -27,10 +27,10 @@ Baltimore, MD
 **Florida Atlantic University, BioRobotics Lab, Dr. Erik Engeberg**  
 Boca Raton, FL
 
-- Designed and built a novel high-density Force Myogram (FMG) sensor array capable of **100% classification accuracy** across 20 hand gestures using AI.
-- Developed a Soft Robotic Haptic Feedback Socket and was awarded **$2,400** in total to advance the project from two separate grants in 2018 and 2019.
-- Spearheaded a team that pioneered a Variable-Pressure Prosthetic Socket using Granular Jamming technology and was awarded **$1,200** to advance the project in 2021.
-- Created a **3D scanning system** that increased scanning accuracy and success rate by 40%.
+- Designed and built a novel high-density Force Myogram (FMG) sensor array capable of <ins>**100% classification accuracy**</ins> across 20 hand gestures using AI.
+- Developed a Soft Robotic Haptic Feedback Socket and was awarded <ins>**$2,400**</ins> in total to advance the project from two separate grants in 2018 and 2019.
+- Spearheaded a team that pioneered a Variable-Pressure Prosthetic Socket using Granular Jamming technology and was awarded <ins>**$1,200**</ins> to advance the project in 2021.
+- Created a <ins>**3D scanning system**</ins> that increased scanning accuracy and success rate by 40%.
 
 
 ## Research Assistant
@@ -39,7 +39,7 @@ Boca Raton, FL
 Boca Raton, FL
 
 - Developed a low-cost and reliable Wireless Charging Station for the TurtleBot 3 mobile robot platform.
-- Integrated and optimized a **PPO** robotic arm training algorithm for the Kinova Gen 3 Robot Arm.
+- Integrated and optimized a <ins>**PPO**</ins> robotic arm training algorithm for the Kinova Gen 3 Robot Arm.
 
 
 
@@ -54,12 +54,12 @@ Boca Raton, FL
 
 # Skills
 
-- **Coding Languages** – C, C++, Python, R, HTML, Arduino, ROS, Gazebo, MATLAB & Simulink
-- **AI Experience** – Scikit-learn, TensorFlow, and PyTorch
-- **CAD Software** – Solidworks, Meshmixer, Fusion 360
-- **3D Printing Proficiency** – FDM and SLA printers, all slicer software
-- **Finite Element Analysis (FEA)** – ANSYS Workbench
-- **Hardware Prototyping** – Soldering and electronic circuit design
+- <ins>**Coding Languages**</ins> – C, C++, Python, R, HTML, Arduino, ROS, Gazebo, MATLAB & Simulink
+- <ins>**AI Experience**</ins> – Scikit-learn, TensorFlow, and PyTorch
+- <ins>**CAD Software**</ins> – Solidworks, Meshmixer, Fusion 360
+- <ins>**3D Printing Proficiency**</ins> – FDM and SLA printers, all slicer software
+- <ins>**Finite Element Analysis (FEA)**</ins> – ANSYS Workbench
+- <ins>**Hardware Prototyping**</ins> – Soldering and electronic circuit design
 
 # Education
 
