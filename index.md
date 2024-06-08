@@ -26,7 +26,7 @@ Baltimore, MD
 Boca Raton, FL
 
 - Designed and built a novel high-density Force Myogram (FMG) sensor array capable of 100% classification accuracy across 20 hand gestures using AI.
-- Developed a Soft Robotic Haptic Feedback Socket and was awarded $1,700 in total to advance the project from two separate grants in 2018 and 2019.
+- Developed a Soft Robotic Haptic Feedback Socket and was awarded $2,400 in total to advance the project from two separate grants in 2018 and 2019.
 - Spearheaded a team that pioneered a Variable-Pressure Prosthetic Socket using Granular Jamming technology and was awarded $1,200 to advance the project in 2021.
 - Created a 3D scanning system that increased scanning accuracy and success rate by 40%.
 
