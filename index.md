@@ -9,6 +9,7 @@ Hello! My name is Wen-Yu Cheng, but everyone calls me Marty! I've been passionat
 11/2023 – 03/2024
 
 **Golden Hour Medical**
+
 Boca Raton, FL
 
 - Pioneered new life-saving automatic tourniquet technology was instrumental in bringing the prototype design into production.
