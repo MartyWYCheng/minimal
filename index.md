@@ -34,7 +34,7 @@ Boca Raton, FL
 
 
 ## Research Assistant
-08/2018 – Present  
+07/2020 – Present  
 **Florida Atlantic University, Dr. Zhen Ni**  
 Boca Raton, FL
 
