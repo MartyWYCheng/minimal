@@ -5,7 +5,7 @@ Hello! My name is Wen-Yu Cheng, but everyone calls me Marty! I've been passionat
 # Experience
 
 ## Systems Engineer 
-11/2020 – 03/2024  
+11/2023 – 03/2024  
 **Golden Hour Medical**  
 Boca Raton, FL
 
